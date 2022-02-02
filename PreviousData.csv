@@ -1,0 +1,387 @@
+"id","question","numUpvotes","numAnswers","numCount"
+0,"",0,0,1
+3061,"Calling a function of a module by using its name (a string)",2156,18,11
+10855,"LINQ query on a DataTable",1099,22,12
+36901,"What does ** (double star/asterisk) and * (star/asterisk) do for parameters?",2896,23,10
+41244,"Dynamic LINQ OrderBy on IEnumerable<T> / IQueryable<T>",717,22,6
+101754,"Is there a way to run Python on Android?",2088,23,8
+111102,"How do JavaScript closures work?",7625,86,27
+113045,"How to return only the Date from a SQL Server DateTime datatype",2002,44,13
+122327,"How do I find the location of my Python site-packages directory?",1196,22,5
+136097,"Difference between staticmethod and classmethod",4199,33,11
+171251,"How can I merge properties of two JavaScript objects dynamically?",2940,67,13
+176264,"What is the difference between a URI, a URL and a URN?",4721,31,14
+178325,"How do I check if an element is hidden in jQuery?",8295,63,22
+208105,"Remove properties from objects (JavaScript)",6914,32,19
+221294,"How do you get a timestamp in JavaScript?",4454,41,12
+237104,"How do I check if an array includes a value in JavaScript?",4555,56,20
+252703,"What is the difference between Python's list methods append and extend?",3113,20,13
+268048,"Can I find out the return value before returning while debugging in Visual Studio?",422,21,5
+298708,"Debugging with command-line parameters in Visual Studio",567,10,8
+338206,"Why can't I use switch statement on a String?",1035,14,6
+372865,"Path.Combine for URLs?",1383,42,10
+394809,"Does Python have a ternary conditional operator?",7150,29,16
+418898,"SQLite - UPSERT *not* INSERT or REPLACE",585,19,6
+419019,"Split List into Sublists with LINQ",428,34,10
+423379,"Using global variables in a function",3584,21,7
+470542,"How do I limit the number of rows returned by an Oracle query after ordering?",1194,14,11
+470617,"How do I get the current date and time in PHP?",972,40,9
+503093,"How do I redirect to another webpage?",7710,58,18
+541966,"How to lazy load images in ListView in Android",2035,41,12
+559415,"Concat all strings inside a List<string> using LINQ",613,12,6
+586182,"How to insert an item into an array at a specific index (JavaScript)",3670,24,11
+606191,"Convert bytes to a string",3183,22,9
+610883,"How to know if an object has an attribute in Python",2111,15,10
+653714,"Insert results of a stored procedure into a temporary table",1723,31,17
+736513,"How do I parse a URL into hostname and path in javascript?",446,24,5
+739654,"How to make function decorators and chain them together?",2993,17,8
+806000,"How do I give text or an image a transparent background using CSS?",2431,33,13
+824349,"How do I modify the URL without reloading the page?",2763,20,13
+829080,"How to build a query string for a URL in C#?",539,39,9
+847066,"Group By Multiple Columns",1102,14,6
+853526,"Using LINQ to remove elements from a List<T>",726,14,7
+885035,"SQL Server 2008 Express Edition Connection Issue",2,8,5
+914109,"How to use LINQ to select object with minimum or maximum property value",526,19,8
+950087,"How do I include a JavaScript file in another JavaScript file?",5876,67,16
+953919,"Convert Linq Query Result to Dictionary",394,4,5
+1024559,"When to use .First and when to use .FirstOrDefault with LINQ?",892,14,12
+1109022,"How do you close/hide the Android soft keyboard programmatically?",4156,123,21
+1129216,"Sort array of objects by string property value",3530,54,21
+1144783,"How to replace all occurrences of a string in JavaScript",5078,79,18
+1184624,"Convert form data to JavaScript object with jQuery",1714,59,10
+1191919,"What does LINQ return when the results are empty",360,7,5
+1293330,"How can I do an UPDATE statement with JOIN in SQL Server?",1476,16,6
+1301346,"What is the meaning of single and double underscore before an object name?",1577,17,7
+1436703,"What is the difference between __str__ and __repr__?",3283,25,12
+1515437,"Java function for arrays like PHP's join()?",264,23,5
+1555109,"How to stop EditText from gaining focus at Activity startup in Android",3071,54,13
+1694751,"Java Array Sort descending?",330,25,5
+1789945,"How to check whether a string contains a substring in JavaScript?",7417,3,23
+1952464,"In Python, how do I determine if an object is iterable?",1266,22,5
+2001773,"Understanding REST: Verbs, error codes, and authentication",620,10,5
+2010892,"How to Store Objects in HTML5 localStorage?",2859,24,6
+2113498,"SqlException from Entity Framework - New transaction is not allowed because there are other threads running in the session",650,21,5
+2165665,"How do I get the current absolute URL in Ruby on Rails?",1099,33,9
+2201917,"How can I open a URL in Android's web browser from my application?",1519,40,9
+2225038,"Determine the type of an object?",1990,15,6
+2334712,"How do I UPDATE from a SELECT in SQL Server?",4031,36,19
+2346464,"SQL Server 2008 SSMS connection and http connection string?",0,1,5
+2432764,"How to change the URI (URL) for a remote Git repository?",5107,31,19
+2612802,"List changes unexpectedly after assignment. Why is this and how can I prevent it?",3008,22,7
+2629421,"How to use Boost in Visual Studio 2010",379,13,6
+2642182,"How to sort an array in descending order in Ruby",315,8,5
+2720014,"How to upgrade all Python packages with pip",2447,51,12
+2767709,"Join/Where with LINQ and Lambda",520,10,6
+2785485,"Is there a unique Android device ID?",2963,51,12
+2971550,"Heroku: How to push different local Git branches to Heroku/master",445,11,5
+3010840,"Loop through an array in JavaScript",3646,44,13
+3286223,"ASP.NET Cross-Domain Cookies & Facebook Connect",0,3,5
+3289601,"Referring to the null object in Python",1370,8,5
+3305561,"0",1712,44,11
+3437059,"Does Python have a string 'contains' substring method?",3591,10,11
+3572463,"What is 'Context' on Android?",2155,30,7
+3964681,"Find all files in a directory with extension .txt in Python",1041,26,7
+4015417,"Why do Python classes inherit object?",1512,6,7
+4046899,"ASP.NET Cross-Sub-Domain Single Sign-On Cookies",2,1,5
+4048151,"What are the options for storing hierarchical data in a relational database?",1477,7,6
+4205181,"Insert into a MySQL table or update if exists",1033,11,7
+4240621,"Can I make a customer self-service product selection tool for the web/AIR with just Flash/Actionscript 3?",0,1,5
+4534438,"TypeError: 'module' object is not callable",693,13,5
+4611340,"An issue filtering related models inside the model definition",12,1,6
+4942113,"Is there a format code shortcut for Visual Studio?",470,11,5
+5344805,"LINQ Orderby Descending Query",484,4,8
+5404839,"How can I refresh a page with jQuery?",2637,31,15
+5767325,"How can I remove a specific item from an array?",10291,121,44
+5891871,"Saving form data rewrites the same row",14,1,7
+6127559,"wordpress plugin -> Call to undefined function wp_get_current_user()",39,10,5
+6237295,"How can I update NodeJS and NPM to the next versions?",1914,55,13
+6569700,"Autowired bean is null in MVC Controller",2,1,5
+7013309,"Visual Studio debugger error: Unable to start program Specified file cannot be found",53,3,5
+7065978,"Understanding cookie domain relationship with top level domain and its subdomains",1,1,5
+7142622,"What is the difference between @Inject and @Autowired in Spring Framework? Which one to use under what condition?",753,11,6
+7364150,"Find object by id in an array of JavaScript objects",1909,35,11
+7921780,"Visual studio 2010 cannot find executable (after upgrade from 2008)",1,1,5
+8130710,"ORACLE stored procedure returning too many rows",3,1,7
+8933237,"How to find if directory exists in Python",1363,14,7
+9025084,"Sorting a vector in descending order",349,11,5
+9153571,"Is there a way to get version from package.json in nodejs code?",759,27,5
+9329446,"For-each over an array in JavaScript",5267,41,20
+9371238,"Why is reading lines from stdin much slower in C++ than Python?",2061,10,7
+9466838,"Writing to output window of Visual Studio",701,12,7
+9654833,"How do I run Visual Studio as an administrator by default?",512,17,6
+9682092,"How does data binding work in AngularJS?",2015,14,7
+9898372,"How to fix Error: listen EADDRINUSE while using NodeJS?",517,42,10
+10183291,"How to get the full URL in Express?",603,22,5
+11618898,"pg_config executable not found",1136,52,9
+12343714,"Wordpress how to use jquery and $ sign",251,17,5
+12771786,"TinyMCE: Why font size, family, color are not working?",3,2,9
+12863663,"Complex nesting of partials and templates",506,6,5
+13276807,"Sorting Array in Java to descending order",0,1,5
+13375357,"Proper use cases for Android UserManager.isUserAGoat()?",3861,11,9
+14132789,"Relative imports for the billionth time",1230,13,8
+14220321,"How to return the response from an asynchronous call",6273,42,18
+14561928,"change tinymce font family menu's font size",1,1,10
+14768880,"Calling procedure from oracle to crystal report",1,3,5
+14820005,"magento cleaning my category to 2000 products",0,1,5
+14836600,"Querying DynamoDB by date",132,8,5
+15452429,"java Arrays.sort 2d array",83,14,5
+16571044,"How to record webcam and audio using webRTC and a server-based Peer connection",99,8,7
+17137557,"Select String within Cell and Paste to Another Sheet",0,1,5
+17501225,"How to show data from mysql in nodejs with a refresh rate",1,1,5
+18923167,"Sorting Descending order: Java Map",38,5,5
+19491336,"How to get URL parameter using jQuery or plain JavaScript?",721,33,9
+20825264,"TinyMCE does not output font size and font family in the editor after saving",0,2,6
+21081609,"Simple static HTML server in Node",0,3,6
+21232941,"How to create a table inside of a procedure in Oracle?",12,2,5
+21692193,"Why not inherit from List<T>?",1587,27,10
+22138965,"Registering Glass Timeline Notification with Node",4,2,7
+22876978,"Loop inside React JSX",1665,75,20
+23112161,"Retrieve location of copied cell range in VBA",2,2,5
+23311998,"Node emitters with express",5,1,8
+24502898,"Show or hide element in React",717,32,10
+25462023,"Tiny mcE set font family and font size in toolbar",0,2,5
+25600580,"Sharing code and schema between microservices",58,4,5
+26008813,"Spring getting error in get attribute method",0,1,5
+26940180,"Excel VBA to search for up to 15 values in one search",1,1,5
+26984414,"Efficiently sorting a numpy array in descending order?",160,10,5
+27272138,"Create a new model which have all fields of currently existing model",10,2,7
+27928372,"React-router urls don't work when refreshing or writing manually",1003,54,10
+27991366,"What is the difference between state and props in React?",689,44,12
+28390659,"django change font size and font family in tinymce",3,3,10
+28902374,"Spring Boot REST service exception handling",194,10,5
+29685421,"Hide keyboard in react-native",593,33,14
+29810914,"React js onClick can't pass value to method",819,35,10
+29942909,"MongoDB : Nested array update issue",5,2,5
+30115372,"How to do logging in React Native",439,37,11
+30364091,"Update Issues with Put Request, JQuery, MongoDB and Mongoose",4,1,5
+30517002,"django models request get id error Room matching query does not exist",1,3,6
+30626030,"Can you force a React component to rerender without calling setState?",913,21,7
+30668326,"What is the difference between using constructor vs getInitialState in React / React Native?",683,10,10
+31041026,"Here route API - Calculating toll cost",1,3,6
+31048953,"What do these three dots in React do?",1276,19,10
+31079081,"Programmatically navigate using React router",1950,36,17
+31137150,"Error in executing Oracle Stored Procedure using C#",7,1,7
+31163693,"How do I conditionally add attributes to React components?",830,20,7
+31548311,"Angular HTML binding",1017,24,5
+31901543,"Array Sorting Descending Order",3,6,5
+31939476,"Why this error coming while running Node.js server?",1,3,11
+32256492,"Getting key prop warning in React, even though key is set",34,6,5
+32469570,"How can I insert a line break into a <Text> component in React Native?",512,34,10
+32490629,"Getting today's date in YYYY-MM-DD in Python?",643,13,5
+32553158,"Detect click outside React component",691,41,11
+32634352,"React Native android build failed. SDK location not found",543,31,11
+33128944,"OneDrive for busines API with Office365",0,1,5
+33345690,"Delphi FireDac Fetching BLOBs",2,1,5
+33357821,"How to export a dynamodb table as a csv through aws-cli ( without using pipeline)",39,5,6
+33722568,"CSS hover effect with figure and figcaption overlayed",3,2,6
+33723033,"Single sign-on flow using JWT for cross domain authentication",135,3,7
+33753471,"OneDrive for Business API issues on Discovery and Authorization",13,1,6
+33772938,"WebRTC remote audio recording solution",2,1,6
+34069573,"How to create a complete plugins using WP custom post type",0,1,5
+34329715,"How to add icons to React Native app",329,14,6
+34641582,"What is the difference between React Native and React?",928,46,25
+34924440,"Which permissions are required to be set in azure active directory, to access a user's onedrive business account?",0,1,5
+35269179,"Angular: conditional class with *ngClass",945,22,6
+35878044,"MS Graph API: OneDrive resource not found",3,2,6
+36846474,"Copy/Paste values, formats, and pictures (not formulas)",1,1,5
+36920557,"Read specific messages using Apache Kafka and NodeJS",1,3,5
+37223275,"PUT/ update operation fails in $resource AngularJS client in rest based app (mongoose insert / update issue).",2,1,5
+37482366,"Is it safe to expose Firebase apiKey to the public?",632,10,5
+37529876,"Strange behavior of auto.arima in R-package forecast",4,1,5
+38034866,"Can't push to remote branch, cannot be resolved to branch",192,27,5
+38652870,"WebRTC screen + audio recording solution?",4,1,6
+38771021,"Scale image and add text overlay on hover",0,1,5
+39014005,"Firebase remote config condition by userId",12,1,9
+39778607,"Error Running React Native App From Terminal (iOS)",447,14,6
+40662871,"Joomla Intro Image hover/ overlay effect",0,1,5
+40941231,"aws cli dynamo db (ValidationException) Error",4,2,5
+41169388,"How do I get the connection string from the SqlServerDBContextOptionsExtensions in ASP.Net Core",10,3,5
+41274871,"Conditional copy Excel File-2 data to excel file-1?",0,1,7
+41325753,"Specifying login creditials for remote SQL connection string in ASP.Net/Entity Framework Core",6,2,6
+41871719,"Another user onedrive files using access token",0,2,7
+42138545,"WebRTC mix local and remote audio steams and record",6,1,5
+42213854,"What is an appropriate type for smart contracts?",202,2,6
+42263156,"Image with link and overlay hover effect",1,1,5
+43037189,"Entity Framework Core 1.1.1 ArgumentNullException Thrown For Connection String",2,1,6
+43522822,"Firebase Remote Config Condition based on event sent",2,3,5
+43738307,"Change font family of tinymce content",0,1,6
+43762124,"How to design three dimension nosql database using Firebase",0,1,5
+44467460,"Copy / Paste data based on values in adjacent column",0,3,5
+44579918,"Flutter - Wrap text on overflow, like insert ellipsis or fade",292,18,7
+44689804,"Overlay hover effect",0,1,5
+44857537,"Visual Studio - Connection String for SQL Server Database Project",3,1,5
+45197925,"Microsoft Graph Resumable Upload URL Returning V2 OneDrive API Upload URL",0,2,6
+45669202,"How to add a ListView to a Column in Flutter?",264,17,6
+45997769,"Filtering a WP_Query meta_query values date isn't working",1,2,5
+46549766,"What's the difference between Cloud Firestore and the Firebase Realtime Database?",352,7,6
+46568850,"What is Firebase Firestore 'Reference' data type good for?",258,8,5
+46724097,"How to export all firebase remote config keys and values?",6,5,5
+46895717,"Connecting to local SQL Server database from C# project",1,3,6
+47616590,"How to resolve ambiguous mapping with Spring Rest Controllers?",2,2,5
+48324493,"Cypress failed to start on Windows",21,9,6
+48782717,"vscode not reloading typescript in vue files",1,1,5
+48893935,"How can I remove the Flutter debug banner?",560,24,8
+49304752,"Is it possible to adjust/modify simultaneously the Remote Config settings for multiple Firebase projects?",0,1,5
+49321392,"Vyper: compatible to write/deploy Ethereum classic smart-contract with python?",2,1,5
+49332923,"Can't Update Table via Stored Procedure",1,2,5
+49472565,"How is a smart contract lived on Ethereum (stored and opened for state change)",0,1,6
+49477768,"Poor audio quality with getUserMedia. Any ideas why?",9,2,5
+49779015,"Font family preview in TinyMCE",3,2,7
+49809351,"How to create a circle icon button in Flutter?",139,21,5
+49989855,"Cannot configure webpack 2.2.1 correctly, keep throwing WebpackOptionsValidationError",0,2,7
+50293503,"How to set the width and height of a button in Flutter?",173,24,5
+50338845,"Should a microservice take care of this or the api gateway?",0,3,6
+50823500,"Jest snapshots not matching - Windows vs Unix/Linux Line Endings",17,3,5
+50905969,"Truck Routing and Toll Cost Calculation for Romania",0,1,7
+50911406,"Toll Cost VAT HERE API",1,1,8
+51160234,"Geth + smart contract function = bad instruction",0,1,5
+51513288,"How to block alert message in pop-up page?",0,1,8
+51765664,"How to create Spring WebClient from Apache Http Client",3,2,6
+52227846,"How can I add shadow to the widget in flutter?",210,13,5
+52359479,"Firebase remote config versus A/B testing features",3,1,7
+53047758,"What is the usage of Debug -> Start external program in Visual Studio",3,2,5
+53228938,"Connect application to OneDrive for Business China",1,1,5
+54162816,"How to implement update_or_create inside create method of ModelSerializer",1,3,6
+54372617,"Onedrive API rejects access token (CompactToken parsing failed with error code: 8004920A)",2,1,6
+54391162,"Typescript won't recognize prop values on Vue component",3,2,5
+54500107,"DynamoDB putting item using AWS CLI",4,7,6
+54950038,"Passport-local times out on create user (Node, Express, Postgres, Knex)",2,2,5
+55236889,"How to copy paste columns adjust height of cells with images without distorting the images. (Excel VBA)",3,1,5
+56005586,"tinymce messing with my font family and size",0,1,10
+57133812,"Cypress: Could not able to retrieve a specific data from downloaded excel-sheet",1,2,5
+57510665,"Single Quotes Converting to Special Characters using AWS CLI",2,2,6
+57510843,"PHP: Override a plugin class method",0,1,5
+57788831,"Here maps toll roads in GB",0,1,10
+57852689,"Kafka Msg VS REST Calls",55,4,7
+58033366,"How to get the current branch within Github Actions?",181,25,6
+58139406,"Only run job on specific branch with GitHub Actions",129,6,6
+58152874,"Remote config value fetching is inconsistent",0,2,5
+58322513,"Flutter: How to add button under text",1,2,5
+58366919,"Mongoose connection from Namecheap server to MongoLab gives error: MongoError: no primary found in replicaset",1,1,5
+58689235,"Proxy setting not working with Spring WebClient",14,3,5
+58908062,"CSS Image not scaling on hover",1,3,5
+58946740,"Snowflake JSON unknown keyword error when trying to get distinct values",0,3,5
+59360694,"Snowflake Stored Procedure - how do I retrieve the number of rows created by a CTAS Statement",0,1,5
+59406297,"Test using StepVerifier blocks when using Spring WebClient with retry",1,1,5
+59420110,"On a css hover effect, not able to select/apply effect to a specific element?",0,3,5
+59534199,"Querying firestore using multiple in clauses",0,1,5
+59562841,"Shouldn't the distance be the same with and without toll costs?",0,1,5
+59667496,"WebRTC iOS: Record Remote Audio stream using WebRTC",4,2,5
+59791169,"Error while creating AWS DynamoDB Table using CLI",0,2,5
+59826544,"How do I add an extra column from JSON into my snowflake table?",0,1,5
+60125736,"How to sort a map of map by 2nd element?",0,1,5
+60136190,"AWS SAM CLI cannot access Dynamo DB when function is invoked locally",7,1,5
+60607176,"Firebase Remote Config Overlapping Condition Groups",2,1,5
+60865418,"How to set Flutter text max length value?",0,3,5
+61039771,"Apache HttpClient v5.0 doesn't authenticate with NTLM on Windows",1,1,6
+61328809,"Queries working in snowflake web UI but not consistently through the python sqlalchemy connector",0,3,5
+62120146,"Not able to get output of select query",0,1,5
+62257953,"Apache HttpComponents HttpClient 5.0 - Kerberos SPNEGO client",0,1,6
+62518880,"Spring Boot - Easier way of GetMapping to the same method with different Paths",0,2,5
+62635140,"Incorrect toll costs in DE",0,2,11
+63130441,"Image Hover Overlay combined Text Hover Overlay",0,1,5
+63191029,"Error shows when I try to install Cypress",0,2,6
+63302165,"Getting error when running command npm install cypress --save-dev",3,1,6
+63362126,"Github Actions: how to run a workflow created on a non-master branch from the workflow_dispatch event?",15,3,5
+63467902,"Trigger GitHub Action when push from specific branch",3,1,5
+63506106,"tollPass and toll calculation in Norway using the fleet API",0,1,11
+63787049,"Extending WooCommerce COD payment gateway in a plugin",2,1,5
+63839627,"while installing cypress through command :npm install cypress --save-dev getting error as The Cypress App could not be downloaded",3,1,6
+64069758,"Cypress not able to recognize Xpath function",0,1,5
+64284795,"IdentityServer4 entity framework SQL Server connection string",0,1,6
+64325714,"quickstart error - Using EF Migrations for local SQL Server and keep loosing db connection",0,1,6
+64347565,"Can NestFactory.create in Nestjs subscribe to topics on kafka?",3,1,5
+64417343,"Vue 3 + typescript : type check props in single file component",4,2,5
+64473066,"How to pass Error Body and StatusCode using Spring WebClient",0,1,5
+64497404,"TinyMCE getContent() with default font",1,1,7
+64514518,"Fetching data from Api in Reactjs using Axios",1,2,7
+64675235,"navigation.setOptions() doesn't work in React Native (expo environment)",0,1,6
+64727837,"TypeError: (0 , _schemaUtils.default) is not a function",5,4,5
+64949243,"Pass Entity Framework Core connection string in code",0,1,5
+65151091,"React Native Navigation with Redux Toolkit",0,1,5
+65233306,"Replace HTTPClient with WebClient in Java",0,2,5
+65430296,"How to use props and navigation route in same const function (react native)?",0,1,5
+65641611,"Flutter - SliverChildList Text overflow",0,1,5
+65921188,"Fetching Toll costs",0,1,6
+66029639,"HERE Toll cost calculation information missing",0,2,6
+66221744,"Kafka + API service Architecture",0,1,6
+66276957,"How to update a nested item in AWS DynamoDB with CLI",1,1,6
+66435388,"Vue 3 - Extend a Vue component with additional props with Typescript support",2,1,6
+66495323,"Github actions 'pull_request_review' on a specific target branch",1,2,5
+66574551,"Wordpress Plugin Boilerplate - How to use WP_List_Table class correctly?",2,1,5
+66649271,"how to refresh the navigation prams when there are more card components to navigate in react native",0,1,6
+67136850,"How to write a Snowflake SELECT statement query in Advance Editor from powerBi",1,1,5
+67323909,"React native web step by step from react native init",1,1,5
+67403765,"FireDAC could not handle parameter names longer than 30 chars",2,1,5
+67799681,"Text Widget Flutter display some characters and display ellipsis",0,2,6
+67850002,"[Vue warn]: Failed to resolve component when tried to create global component",4,1,5
+67941770,"Repo not found using semantic-release-monorepo in GitHub Actions workflow",0,1,5
+68497262,"Delphi Firedac - FieldName issue",0,1,6
+68644989,"Firebase Remote Config (Web) always uses default values for Samsung Internet",2,2,5
+68800374,"Vue 3 PropType doesn't see the interface",0,1,5
+69176655,"HERE Maps API - Toll",0,1,6
+69207760,"Failure during cypress open after cypress v8.4.0 upgrade",1,1,5
+69531370,"Firedac Passing Column name as Parameter",3,1,5
+69579398,"TypeScript errors when editing old Vue 3 components but not on new components",2,2,5
+69652074,"Dynamic metric tagging with Spring WebClient",0,1,5
+69843648,"Configure SSL with Webflux Webclient using Apache HttpComponents",1,1,5
+70116124,"How to find smart contract adress and hash code in Etherscan",0,1,5
+70141293,"i already have a Key in my component but why is it still looking for a unique key?",0,1,5
+70355135,"Snowflake Error parsing JSON: unfinished string, pos <number>",2,1,5
+70586126,"Corrupted AWS CLI DynamoDB Table (+doesn't update on DynamoDB website)",0,1,5
+70592939,"Apache HttpClient 5.1 bypass SSL Verification",0,1,5
+70699254,"I am trying to enter data into a set of stock cards. I need to select the correct card first before entering the data",0,1,5
+70707536,"Kafka for API gateway to store messages",0,1,5
+70755218,"Snowflake query performance is unexpectedly slower for external Parquet tables vs. internal tables",0,2,5
+70779683,"How can I dix this Node.js login page?",1,1,5
+70849091,"Search for data using filter function not working",1,2,5
+70882416,"Seperate or Merge Kafka Consumer and API services together",1,2,5
+70934753,"Why is date_diff different between Trino and Snowflake?",1,2,5
+70951805,"SSO for cross domain",1,2,5
+70953415,"Updating automatically an HTML content when the imported *.json values are changed",0,1,5
+70953416,"Determine dimensions of full-screen macOS application windows below the camera housing notch",0,0,5
+70953417,"Can't use the pattern matching for switch feature in vscode with jdk 19",0,0,5
+70953418,"I can't install mysql on ubunut 20.04",0,1,5
+70953419,"Unable to set TextView programatically",0,1,5
+70953422,"How to unit test exception message thrown inside try and caught by catch using mockMvc",0,0,5
+70953423,"What's wrong in my converting .PDE to .JS?",0,0,5
+70953428,"How to add a more button just after the text overflow ellipsis in flutter?",-1,0,5
+70953429,"React errors indicate the compiled location of the file and not the uncompiled location of the file",0,0,5
+70953433,"React - child.ref.current is null in componentdidmount",0,0,5
+70953435,"Using another plugin Class on a mu-plugin",0,0,5
+70953437,"react native ts imports aliases",0,0,5
+70953439,"Not able to download/install cypress in my mac",-1,0,5
+70953440,"How to block alert message in pop-up page?",0,1,3
+70953442,"Not able to record remote user record audio while screen recording in react js using socket.io and webrtc",0,0,5
+70953443,"How to get list of all items in a dynamo Table using aws cli",1,1,5
+70953448,"Typescript + Vite + Vue 3 syntax error not showing when component is called",0,0,5
+70953449,"FireDAC: possibility to make query faster - Delphi",0,0,5
+70953450,"sorting array of arrays in descending order using arrays.sort function is resulting in errors in java",-1,0,5
+70953455,"Combine Remote Config Values into a new Value",0,0,5
+70953457,"pagination populate subdocument nodejs mongodb",0,0,5
+70953458,"nptdms.TdmsFile object not subscriptable",0,0,5
+70953459,"Error when trying to process HyperLogLog created on Snowflake, in Trino",0,0,5
+70953460,"SSO for cross domain Authentication",0,0,5
+70953461,"Issues in accessing onedrive business using Microsoft Graph API",0,0,5
+70953462,"Date field is not getting saved in the admin database",1,1,5
+70953464,"How to do this image hover effect in CSS : dark overlay + image grow + title on it?",0,0,5
+70953466,"Unique URL i came across and cant understand how it works",0,0,5
+70953467,"how to display different font family to the same font in output of tinymce?",0,0,5
+70953469,"TOLL COLLECT errors (TOLL COLLECT GMBH and Netherlands EuroVignette)",0,0,5
+70953474,"How to create toggle React Native Camera Torch on/off",0,0,5
+70953475,"LINQ Sub group results with a single query",0,0,5
+70953480,"Facing DeadlineTimeoutException while using Apache HttpClient with Spring webclient",0,0,5
+70953481,"Mutating Redux Store Array of Objects in ReactJS",0,0,5
+70953483,"How do i copy my transpose data with the cell's fill color together?",0,0,5
+70953485,"Dynamic Columns from List using LINQ",0,0,5
+70953487,"Connection refused error when trying to communicate between two virtualbox machines for node app and mongodb",0,0,5
+70953489,"Error in forecast and accuracy function in R",0,0,5
+70953490,"How to pass table name as a parameter in update procedure in Oracle?",0,1,5
+70953491,"In EF Core, connection string to one of several local databases on SQL server developer edition?",0,0,5
+70953495,"Switch endpoint responses based on condition",0,0,5
+70953497,"How to decode a transaction / find all transaction details of a token swap on Ethereum with an unverified contract (python)?",0,0,5
+70953498,"Firebase Firestore Data Structure",0,0,5
+70953500,"Github actions branch filter. Could not use 'release/' preffix on push workflow trigger",0,0,5
+70953502,"Scale Angular Material website (on Android)",0,0,5
+70953503,"Should one service take care of both processing Kafka messages and API calls simultaneously?",0,0,5
+70953504,"Creek Air Duct Irving - Vent Cleaning",0,0,5
